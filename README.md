@@ -4,6 +4,8 @@
 - I’m interested in Python, discord API, flask
 - I’m currently learning javascript, html, css
 
+# Languages
+:python: :html:
 
 # Discord...
 
