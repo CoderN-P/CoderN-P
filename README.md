@@ -1,6 +1,5 @@
-## Hello!
-![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
-# CoderN-P
+
+# Hello :wave:
 -  Hi, I’m @CoderN-P
 - I’m interested in Python, discord API, flask
 - I’m currently learning javascript, html, css
