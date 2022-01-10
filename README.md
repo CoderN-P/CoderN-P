@@ -41,4 +41,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 # CodeWars
-[![](https://www.codewars.com/users/CoderN-P/badges/large)
+![](https://www.codewars.com/users/CoderN-P/badges/large)
