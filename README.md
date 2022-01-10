@@ -39,3 +39,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CoderN-P&show_icons=True&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+# CodeWars
+[![](https://www.codewars.com/users/CoderN-P/badges/large)
