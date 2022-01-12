@@ -2,10 +2,7 @@
 <h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-
-</p>
-<div size='20px'> Hi! Thx for visiting!
-</div>
+![Metrics](github-metrics.svg)
 
 <h2> About Me</h2>
 
