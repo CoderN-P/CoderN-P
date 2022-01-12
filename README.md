@@ -15,8 +15,8 @@
 <a href= https://github.com/CoderN-P?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
   
 <a href= 'https://github.com/CoderN-P?tab=repositories&q=&type=&language=html&sort='> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-  <a href= 'https://github.com/CoderN-P?tab=repositories&q=&type=&language=javascript&sort='> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-
+  <a href= 'https://github.com/CoderN-P?tab=repositories&q=&type=&language=javascript&sort='> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+  <a href= 'https://github.com/CoderN-P?tab=repositories&q=&type=&language=mongodb&sort='> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 
 
 # Discord...
