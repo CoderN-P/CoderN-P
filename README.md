@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # My Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CoderN-P&show_icons=True&theme=cobalt&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CoderN-P&show_icons=True&theme=cobalt&count_private=True)]
 </div>
 
 # CodeWars
