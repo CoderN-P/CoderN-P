@@ -2,7 +2,6 @@
 <h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![Metrics](github-metrics.svg)
 
 <h2> About Me</h2>
 
@@ -34,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # My Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CoderN-P&show_icons=True&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CoderN-P&show_icons=True&theme=cobalt&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 # CodeWars
