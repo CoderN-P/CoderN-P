@@ -1,7 +1,7 @@
 
 # Hi, I am CoderN-P! :wave:
 
-## Thanks for visiting! ![visitors](https://visitor-badge.glitch.me/badge?page_id=CoderN-P.CoderN-P)
+## Thanks for visiting! 
 I am a full stack developer, and just like learning about new technologies every day. 
 
 ## What I'm doing these days :computer:
