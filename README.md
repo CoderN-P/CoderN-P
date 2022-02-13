@@ -1,7 +1,7 @@
 
 # Hi, I am CoderN-P! :wave:
 
-## Thanks for visiting! 
+## Thanks for visiting! ![](https://gpvc.arturio.dev/CoderN-P)
 I am a full stack developer, and just like learning about new technologies every day. 
 
 ## What I'm doing these days :computer:
