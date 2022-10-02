@@ -7,6 +7,7 @@ I am a full stack developer, and just like learning about new technologies every
 ## What I'm doing these days :computer:
 
 - 🚀 Getting better at js, c++, and other APIs
+- Practicing for USACO
 - 👨‍💻 Working on projects like [WorldInfo](https://github.com/CoderN-P/WorldInfo), [Nebulus](https://github.com/ProjectNebulus), [pycolor](https://github.com/CoderN-P/pycolor)
 
 
