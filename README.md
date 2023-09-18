@@ -9,15 +9,11 @@ I am a full stack developer. I like learning new things.
 
 ## Other Profiles
 
-## ![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
+### ![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  ![](https://discord-md-badge.vercel.app/api/shield/751594192739893298)
 
-![](https://discord-md-badge.vercel.app/api/shield/751594192739893298)
+### ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) ![](https://www.codewars.com/users/CoderN-P/badges/large)
 
-## ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
-
-![](https://www.codewars.com/users/CoderN-P/badges/large)
-
-## ![](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+### Codeforces https://codeforces.com/profile/CoderN
 
 
 <!---
