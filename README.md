@@ -1,25 +1,13 @@
-
-# Hello ![](https://gpvc.arturio.dev/CoderN-P)
-I am a full stack developer. I like learning new things.
-
-### [Skills](/Skills.md)        <span>[Projects](/Projects.md)</span>        [Profiles]()
+# Hello!      [Skills](/Skills.md)      [Projects](Projects.md)      [Profiles](Profiles.md)
+I am a full stack dev and love learning new things
 
 
-## Profiles
-
-### ![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  ![](https://discord-md-badge.vercel.app/api/shield/751594192739893298)
-
-### ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) ![](https://www.codewars.com/users/CoderN-P/badges/large)
-
-### [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)]( https://codeforces.com/profile/CoderN)
-
-
-<!---
-CoderN-P/CoderN-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## 📈 My Github Stats
-
-![metrics](/github-metrics.svg)
+<div align="left">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="/github-metrics.svg" style=" margin-right:20;" height="300px" width="400px"/>
+         
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codern-p&theme=dark&bg_color=00000000&layout=compact&hide_border=true" style="vertical-align: top;" height="300px"/>
+  </div>@
+</div>
 
 
