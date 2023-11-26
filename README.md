@@ -2,6 +2,8 @@
 # Hello ![](https://gpvc.arturio.dev/CoderN-P)
 I am a full stack developer. I like learning new things.
 
+### [Skills](/Skills.md)        <span>[Projects](/Projects.md)</span>        [Profiles]()
+
 
 ## Profiles
 
@@ -9,7 +11,7 @@ I am a full stack developer. I like learning new things.
 
 ### ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) ![](https://www.codewars.com/users/CoderN-P/badges/large)
 
-### ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) https://codeforces.com/profile/CoderN
+### [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)]( https://codeforces.com/profile/CoderN)
 
 
 <!---
