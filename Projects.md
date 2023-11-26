@@ -25,6 +25,9 @@
 - A fun **verified** discord bot that helps you learn more about countries. You can even make your own country!!
 - Unfortunately, after discord's shift to slash commands, the bot is not active anymore :(.
 
+### My Personal Website
+- My Personal Website: https://codern-p.github.io
+
 ### Flappy Bird Gamemaker
 - Flappy bird made in gamemaker.
 
